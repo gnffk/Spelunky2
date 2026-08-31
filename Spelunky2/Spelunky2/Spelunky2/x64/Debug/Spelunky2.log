@@ -1,0 +1,185 @@
+﻿  Bat.cpp
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Bat.cpp(79,9): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Bat.cpp(80,9): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Bat.cpp(81,16): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Bitmap.cpp
+  BmpManager.cpp
+  BombPackage.cpp
+  Boss.cpp
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Boss.cpp(95,21): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Boss.cpp(120,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Boss.cpp(158,15): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Boss.cpp(173,9): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Boss.cpp(174,9): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Boss.cpp(175,16): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Boss.cpp(236,35): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Boss.cpp(251,36): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Boss.cpp(267,9): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Boss.cpp(268,9): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Boss.cpp(269,16): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Boss.cpp(283,32): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Boss.cpp(345,9): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Boss.cpp(346,9): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Boss.cpp(347,16): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Boss.cpp(366,21): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Boss.cpp(380,30): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Bullet.cpp
+  CameraManager.cpp
+  CBomb.cpp
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\CBomb.cpp(57,61): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\CBomb.cpp(58,60): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\CBomb.cpp(59,62): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\CBomb.cpp(60,63): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\CBomb.cpp(67,23): warning C4244: '-=': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CEffect.cpp
+  CollisionManager.cpp
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\CollisionManager.cpp(512,58): warning C4244: '인수': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\CollisionManager.cpp(596,45): warning C4244: '인수': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\CollisionManager.cpp(606,45): warning C4244: '인수': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\CollisionManager.cpp(621,46): warning C4244: '인수': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\CollisionManager.cpp(632,46): warning C4244: '인수': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\CollisionManager.cpp(691,45): warning C4244: '인수': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\CollisionManager.cpp(702,45): warning C4244: '인수': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\CollisionManager.cpp(815,43): warning C4244: '인수': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\CollisionManager.cpp(853,44): warning C4244: '인수': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\CollisionManager.cpp(916,42): warning C4244: '인수': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\CollisionManager.cpp(1023,41): warning C4244: '인수': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DeadUI.cpp
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\DeadUI.cpp(36,118): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\DeadUI.cpp(36,88): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\DeadUI.cpp(36,58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\DeadUI.cpp(36,28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DebugPlayer.cpp
+  EffectManager.cpp
+  Enemy.cpp
+  Gold.cpp
+  KeyManager.cpp
+  MapEditScene.cpp
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\MapEditScene.cpp(79,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\MapEditScene.cpp(78,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\MapEditScene.cpp(99,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\MapEditScene.cpp(98,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MenuScene.cpp
+  Mouse.cpp
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Mouse.cpp(35,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Mouse.cpp(36,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Obj.cpp
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Obj.cpp(27,57): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Obj.cpp(28,55): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Obj.cpp(29,58): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Obj.cpp(30,58): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Obj.cpp(32,66): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Obj.cpp(33,65): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Obj.cpp(34,67): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Obj.cpp(35,68): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  ObjManager.cpp
+  OpenKey.cpp
+  Particle.cpp
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Particle.cpp(27,18): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Particle.cpp(95,21): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Particle.cpp(94,21): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player.cpp
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Player.cpp(1242,32): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  PlayerUI.cpp
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\PlayerUI.cpp(133,38): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\PlayerUI.cpp(139,38): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\PlayerUI.cpp(145,37): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\PlayerUI.cpp(151,37): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\PlayerUI.cpp(154,14): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\PlayerUI.cpp(158,41): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\PlayerUI.cpp(164,41): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\PlayerUI.cpp(169,41): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\PlayerUI.cpp(182,41): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\PlayerUI.cpp(187,41): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\PlayerUI.cpp(194,38): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ReadyScene.cpp
+  ReadyUI.cpp
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\ReadyUI.cpp(47,53): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\ReadyUI.cpp(47,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\ReadyUI.cpp(47,23): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\ReadyUI.cpp(53,50): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  RopePackage.cpp
+  Scene.cpp
+  SceneManager.cpp
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\SceneManager.cpp(33,27): warning C4244: '=': 'float'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\SceneManager.cpp(98,28): warning C4244: '=': 'float'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\SceneManager.cpp(157,28): warning C4244: '=': 'float'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MainGame.cpp
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\MainGame.cpp(78,28): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ShopMan.cpp
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\ShopMan.cpp(229,27): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\ShopMan.cpp(230,25): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\ShopMan.cpp(242,27): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\ShopMan.cpp(256,26): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ShotGun.cpp
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\ShotGun.cpp(117,34): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Snake.cpp
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Snake.cpp(25,24): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Snake.cpp(184,26): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Snake.cpp(202,25): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SoundManager.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  Spelunky2.cpp
+  Spider.cpp
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Spider.cpp(69,9): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Spider.cpp(70,9): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Spider.cpp(71,16): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Stage2.cpp
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Stage2.cpp(147,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Stage2.cpp(146,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Stage3.cpp
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Stage3.cpp(105,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Stage3.cpp(104,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  StoreUI.cpp
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\StoreUI.cpp(40,72): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\StoreUI.cpp(41,71): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\StoreUI.cpp(42,73): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\StoreUI.cpp(43,74): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\StoreUI.cpp(92,63): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\StoreUI.cpp(97,67): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\StoreUI.cpp(111,66): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\StoreUI.cpp(116,67): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\StoreUI.cpp(130,66): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\StoreUI.cpp(135,67): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\StoreUI.cpp(150,63): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\StoreUI.cpp(155,68): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\StoreUI.cpp(160,66): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\ReadyUI.cpp(34,1): warning C4715: 'CReadyUI::Update': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  컴파일하고 있습니다...
+  Tether.cpp
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Tether.cpp(76,18): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Tether.cpp(89,18): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Tether.cpp(133,43): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Tether.cpp(134,23): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Tether.cpp(188,25): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Tile.cpp
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Tile.cpp(66,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Tile.cpp(65,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Tile.cpp(81,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Tile.cpp(80,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Tile.cpp(94,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Tile.cpp(93,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Tile.cpp(107,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Tile.cpp(106,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Tile.cpp(120,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Tile.cpp(119,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TileManager.cpp
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\TileManager.cpp(27,14): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\TileManager.cpp(28,14): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\TileManager.cpp(248,8): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\TileManager.cpp(249,8): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  UI.cpp
+  UIManager.cpp
+  Whip.cpp
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Whip.cpp(111,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Whip.cpp(110,23): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Whip.cpp(125,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Whip.cpp(124,23): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Whip.cpp(174,26): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\Tile.cpp(282,1): warning C4715: 'CTile::Spone': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Spelunky2.vcxproj -> C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\x64\Debug\Spelunky2.exe
+  C:\Users\gnffk\OneDrive\바탕 화면\dfdaf\Spelunky2\Spelunky2\x64\Debug\Spelunky2.exe: message: 종속성을 배포하는 중

@@ -1,0 +1,467 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="0.etc">
+      <UniqueIdentifier>{0fa11a2d-7b7b-4fba-b134-42762b66ba83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="0.etc\리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="1.Engine">
+      <UniqueIdentifier>{23099ab0-d655-412f-b458-3d79e42bd2b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Manager">
+      <UniqueIdentifier>{5d3d288d-6dcb-449f-b758-5a699727ef3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3.Scene">
+      <UniqueIdentifier>{de322827-7f18-42ac-82ec-6449ac9ca87d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3.Scene\MenuScene">
+      <UniqueIdentifier>{37860df5-6f28-404f-97f5-14b62ea38eec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Manager\Key">
+      <UniqueIdentifier>{94fb4fa0-1628-4860-8034-8736bb688e61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Manager\Scene">
+      <UniqueIdentifier>{0590c49a-c6f7-41ab-80df-01d03613b249}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Manager\Bmp">
+      <UniqueIdentifier>{46bda2ae-6815-48ff-ae4d-04971a51adac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Manager\Obj">
+      <UniqueIdentifier>{71fad17a-acc1-47ee-b302-5455b1947862}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4.Obj">
+      <UniqueIdentifier>{815bc086-ce42-4136-b819-fd529de46708}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4.Obj\Player">
+      <UniqueIdentifier>{53f89e42-9221-402e-a4b9-d40a36aec07f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Manager\AbstractFactory">
+      <UniqueIdentifier>{753011b0-e3fe-4efc-9f55-e3107260e541}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4.Obj\DebugPlayer">
+      <UniqueIdentifier>{0683b2d9-646c-43b1-b405-98495f05a20b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3.Scene\MapEditorScene">
+      <UniqueIdentifier>{f44e403e-c9cb-4f75-ab46-616626a0c081}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Manager\Camera">
+      <UniqueIdentifier>{696be93b-cfae-434e-807c-8827033baee2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Manager\TileManager">
+      <UniqueIdentifier>{63d96641-ae0c-4932-a9c3-2d9df410d9d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Manager\TileManager\Tile">
+      <UniqueIdentifier>{bd73c8dd-a578-4a93-abbe-d441197f4142}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4.Obj\Mouse">
+      <UniqueIdentifier>{7abb0166-e9a8-4ea9-bc0d-b231038642b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Manager\Collision">
+      <UniqueIdentifier>{2250d90e-ac89-4150-8dc5-896b2f2e8491}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Manager\UI">
+      <UniqueIdentifier>{64cf9490-07b0-4f26-a648-d317efcd6f1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="5.UI">
+      <UniqueIdentifier>{b660512b-dbad-4e65-8ca3-ae28f1053877}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="5.UI\PlayerUI">
+      <UniqueIdentifier>{af4b36c1-15e6-48b6-9759-6fb763c2ebf8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3.Scene\Stage3Scene">
+      <UniqueIdentifier>{33e0911c-0950-41bc-8b21-93394feff618}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4.Obj\Enemy">
+      <UniqueIdentifier>{c5b3d038-773a-4c8d-ace3-0799715a8850}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4.Obj\Enemy\Boss">
+      <UniqueIdentifier>{33fbe0d0-dd70-4486-bbc3-37520816f5e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4.Obj\Item">
+      <UniqueIdentifier>{4daae43d-d82b-4c4a-b230-c03ce1c23551}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4.Obj\Weapon">
+      <UniqueIdentifier>{21e0b3c0-872c-4bf9-af97-a01ea8313389}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3.Scene\Stage2Scene">
+      <UniqueIdentifier>{ab1af783-586e-43b6-a3c2-7bb34f6ac963}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4.Obj\Item\Bomb">
+      <UniqueIdentifier>{2b7001b7-08cf-444c-a150-3170e6cbf02e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4.Obj\Item\Tether">
+      <UniqueIdentifier>{ae70c857-6ca0-4a46-a76c-30005dd416e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4.Obj\Weapon\ShotGun">
+      <UniqueIdentifier>{7c92fca2-0b06-451e-abc4-b68b636119df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4.Obj\Weapon\Whip">
+      <UniqueIdentifier>{f052af23-fe91-441c-8819-2def45c0d963}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4.Obj\Weapon\Bullet">
+      <UniqueIdentifier>{49cd9092-9d9e-4a77-8701-205460130b7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4.Obj\Item\Money">
+      <UniqueIdentifier>{72cf6cea-e695-4cc5-a1f9-e490e81d5c32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4.Obj\Item\Package">
+      <UniqueIdentifier>{d473830b-09de-4d54-90af-00f7a1e63639}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3.Scene\ReadyScene">
+      <UniqueIdentifier>{54dd7d29-cd1c-466e-99f6-92653cf8e260}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Manager\Sound">
+      <UniqueIdentifier>{7610ef0a-6f3a-47dc-8d66-94b077c02fb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="5.UI\ReadyUI">
+      <UniqueIdentifier>{4f93aa48-5b52-4eb4-af43-c957ed691d48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="5.UI\DeadUI">
+      <UniqueIdentifier>{57f63c64-2bd8-4a0c-9acc-e6ea65b14205}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4.Obj\Enemy\Bat">
+      <UniqueIdentifier>{9f441e6b-c137-435f-9eb7-4cdf48e64c1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4.Obj\Enemy\Snake">
+      <UniqueIdentifier>{918ae1fe-a6d6-4b46-9d19-3a12fb61e819}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4.Obj\Enemy\Spider">
+      <UniqueIdentifier>{a71ad02d-8fe0-4ea4-9032-24a8833ed0e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4.Obj\Enemy\ShopMan">
+      <UniqueIdentifier>{08601893-1b91-4d9c-b079-cf4591a9cd89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="5.UI\StoreUI">
+      <UniqueIdentifier>{34203a1c-3196-4574-8c4a-d29820f0412a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Manager\Effect">
+      <UniqueIdentifier>{9cec7961-8e46-4ae8-9add-5e144a8d64d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NewFilter1">
+      <UniqueIdentifier>{ea18b8f0-201c-4d12-8bcf-fe4c5ce1066f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Manager\Effect\paticle">
+      <UniqueIdentifier>{f5e7401f-aa1f-4f89-84e0-7872cf6f68ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Manager\Effect\Effect">
+      <UniqueIdentifier>{9b3d6c8c-7aaa-4206-9428-149fc8ee0867}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4.Obj\Item\OpenKey">
+      <UniqueIdentifier>{97a4adfd-ff22-491c-9874-2ef79e7c6500}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>0.etc</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>0.etc</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>0.etc</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>0.etc</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuScene.h">
+      <Filter>3.Scene\MenuScene</Filter>
+    </ClInclude>
+    <ClInclude Include="define.h">
+      <Filter>0.etc</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGame.h">
+      <Filter>1.Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Spelunky2.h">
+      <Filter>1.Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>2.Manager\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyManager.h">
+      <Filter>2.Manager\Key</Filter>
+    </ClInclude>
+    <ClInclude Include="BmpManager.h">
+      <Filter>2.Manager\Bmp</Filter>
+    </ClInclude>
+    <ClInclude Include="Bitmap.h">
+      <Filter>2.Manager\Bmp</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjManager.h">
+      <Filter>2.Manager\Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="Obj.h">
+      <Filter>4.Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>4.Obj\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="AbstractFactory.h">
+      <Filter>2.Manager\AbstractFactory</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>3.Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="DebugPlayer.h">
+      <Filter>4.Obj\DebugPlayer</Filter>
+    </ClInclude>
+    <ClInclude Include="MapEditScene.h">
+      <Filter>3.Scene\MapEditorScene</Filter>
+    </ClInclude>
+    <ClInclude Include="CameraManager.h">
+      <Filter>2.Manager\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="TileManager.h">
+      <Filter>2.Manager\TileManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>2.Manager\TileManager\Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="Mouse.h">
+      <Filter>4.Obj\Mouse</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionManager.h">
+      <Filter>2.Manager\Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="UIManager.h">
+      <Filter>2.Manager\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>5.UI</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerUI.h">
+      <Filter>5.UI\PlayerUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage3.h">
+      <Filter>3.Scene\Stage3Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>4.Obj\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss.h">
+      <Filter>4.Obj\Enemy\Boss</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage2.h">
+      <Filter>3.Scene\Stage2Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="CBomb.h">
+      <Filter>4.Obj\Item\Bomb</Filter>
+    </ClInclude>
+    <ClInclude Include="Tether.h">
+      <Filter>4.Obj\Item\Tether</Filter>
+    </ClInclude>
+    <ClInclude Include="Whip.h">
+      <Filter>4.Obj\Weapon\Whip</Filter>
+    </ClInclude>
+    <ClInclude Include="ShotGun.h">
+      <Filter>4.Obj\Weapon\ShotGun</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>4.Obj\Weapon\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="Gold.h">
+      <Filter>4.Obj\Item\Money</Filter>
+    </ClInclude>
+    <ClInclude Include="BombPackage.h">
+      <Filter>4.Obj\Item\Package</Filter>
+    </ClInclude>
+    <ClInclude Include="RopePackage.h">
+      <Filter>4.Obj\Item\Package</Filter>
+    </ClInclude>
+    <ClInclude Include="ReadyScene.h">
+      <Filter>3.Scene\ReadyScene</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundManager.h">
+      <Filter>2.Manager\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="ReadyUI.h">
+      <Filter>5.UI\ReadyUI</Filter>
+    </ClInclude>
+    <ClInclude Include="DeadUI.h">
+      <Filter>5.UI\DeadUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Bat.h">
+      <Filter>4.Obj\Enemy\Bat</Filter>
+    </ClInclude>
+    <ClInclude Include="Snake.h">
+      <Filter>4.Obj\Enemy\Snake</Filter>
+    </ClInclude>
+    <ClInclude Include="Spider.h">
+      <Filter>4.Obj\Enemy\Spider</Filter>
+    </ClInclude>
+    <ClInclude Include="ShopMan.h">
+      <Filter>4.Obj\Enemy\ShopMan</Filter>
+    </ClInclude>
+    <ClInclude Include="StoreUI.h">
+      <Filter>5.UI\StoreUI</Filter>
+    </ClInclude>
+    <ClInclude Include="EffectManager.h">
+      <Filter>2.Manager\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="Particle.h">
+      <Filter>2.Manager\Effect\paticle</Filter>
+    </ClInclude>
+    <ClInclude Include="CEffect.h">
+      <Filter>2.Manager\Effect\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenKey.h">
+      <Filter>4.Obj\Item\OpenKey</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Spelunky2.rc">
+      <Filter>0.etc\리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>0.etc\리소스 파일</Filter>
+    </Image>
+    <Image Include="Spelunky2.ico">
+      <Filter>0.etc\리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MenuScene.cpp">
+      <Filter>3.Scene\MenuScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>3.Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="MainGame.cpp">
+      <Filter>1.Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Spelunky2.cpp">
+      <Filter>1.Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>2.Manager\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyManager.cpp">
+      <Filter>2.Manager\Key</Filter>
+    </ClCompile>
+    <ClCompile Include="BmpManager.cpp">
+      <Filter>2.Manager\Bmp</Filter>
+    </ClCompile>
+    <ClCompile Include="Bitmap.cpp">
+      <Filter>2.Manager\Bmp</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjManager.cpp">
+      <Filter>2.Manager\Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="Obj.cpp">
+      <Filter>4.Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>4.Obj\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="DebugPlayer.cpp">
+      <Filter>4.Obj\DebugPlayer</Filter>
+    </ClCompile>
+    <ClCompile Include="MapEditScene.cpp">
+      <Filter>3.Scene\MapEditorScene</Filter>
+    </ClCompile>
+    <ClCompile Include="CameraManager.cpp">
+      <Filter>2.Manager\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="TileManager.cpp">
+      <Filter>2.Manager\TileManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>2.Manager\TileManager\Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="Mouse.cpp">
+      <Filter>4.Obj\Mouse</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionManager.cpp">
+      <Filter>2.Manager\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="UIManager.cpp">
+      <Filter>2.Manager\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>5.UI</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerUI.cpp">
+      <Filter>5.UI\PlayerUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage3.cpp">
+      <Filter>3.Scene\Stage3Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>4.Obj\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss.cpp">
+      <Filter>4.Obj\Enemy\Boss</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage2.cpp">
+      <Filter>3.Scene\Stage2Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="CBomb.cpp">
+      <Filter>4.Obj\Item\Bomb</Filter>
+    </ClCompile>
+    <ClCompile Include="Tether.cpp">
+      <Filter>4.Obj\Item\Tether</Filter>
+    </ClCompile>
+    <ClCompile Include="Whip.cpp">
+      <Filter>4.Obj\Weapon\Whip</Filter>
+    </ClCompile>
+    <ClCompile Include="ShotGun.cpp">
+      <Filter>4.Obj\Weapon\ShotGun</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>4.Obj\Weapon\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="Gold.cpp">
+      <Filter>4.Obj\Item\Money</Filter>
+    </ClCompile>
+    <ClCompile Include="BombPackage.cpp">
+      <Filter>4.Obj\Item\Package</Filter>
+    </ClCompile>
+    <ClCompile Include="RopePackage.cpp">
+      <Filter>4.Obj\Item\Package</Filter>
+    </ClCompile>
+    <ClCompile Include="ReadyScene.cpp">
+      <Filter>3.Scene\ReadyScene</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundManager.cpp">
+      <Filter>2.Manager\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="ReadyUI.cpp">
+      <Filter>5.UI\ReadyUI</Filter>
+    </ClCompile>
+    <ClCompile Include="DeadUI.cpp">
+      <Filter>5.UI\DeadUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Bat.cpp">
+      <Filter>4.Obj\Enemy\Bat</Filter>
+    </ClCompile>
+    <ClCompile Include="Snake.cpp">
+      <Filter>4.Obj\Enemy\Snake</Filter>
+    </ClCompile>
+    <ClCompile Include="Spider.cpp">
+      <Filter>4.Obj\Enemy\Spider</Filter>
+    </ClCompile>
+    <ClCompile Include="ShopMan.cpp">
+      <Filter>4.Obj\Enemy\ShopMan</Filter>
+    </ClCompile>
+    <ClCompile Include="StoreUI.cpp">
+      <Filter>5.UI\StoreUI</Filter>
+    </ClCompile>
+    <ClCompile Include="EffectManager.cpp">
+      <Filter>2.Manager\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="Particle.cpp">
+      <Filter>2.Manager\Effect\paticle</Filter>
+    </ClCompile>
+    <ClCompile Include="CEffect.cpp">
+      <Filter>2.Manager\Effect\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="OpenKey.cpp">
+      <Filter>4.Obj\Item\OpenKey</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
